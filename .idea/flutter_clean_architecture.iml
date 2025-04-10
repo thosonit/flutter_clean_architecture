@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ts_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core_ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_core_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_feature_auth/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_feature_auth/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_feature_auth/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_network/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_network/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_network/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_storage/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_storage/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_storage/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_domain/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_domain/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ts_domain/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
